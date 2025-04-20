@@ -1,0 +1,21 @@
+.post-list-container {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 8px;
+    background-color: #1E1E1E;
+}
+
+.no-posts {
+    color: #888;
+    font-style: italic;
+}
+
+.loading {
+    color: #BB86FC;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
